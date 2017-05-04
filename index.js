@@ -12,7 +12,11 @@ module.exports = {
         "Class": false,
         "org": false,
         "ecEditor": false,
-        "ServiceConstants": false
+        "ServiceConstants": false,
+        "PluginManager": false,
+        "Renderer": false,
+        "createjs": false,
+        "OverlayManager": false
     },
     "rules": {
         "valid-jsdoc": ["error", { "requireReturn": false }],
