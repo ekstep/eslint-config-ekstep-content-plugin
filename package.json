@@ -1,0 +1,26 @@
+{
+    "name": "eslint-config-ekstep-content-plugin",
+    "version": "1.0.0",
+    "description": "Shared eslint config for ekstep content plugins",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ekstep/eslint-config-ekstep-content-plugin.git"
+    },
+    "keywords": [
+        "eslint",
+        "eslintconfig"
+    ],
+    "author": "ekstep",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ekstep/eslint-config-ekstep-content-plugin/issues"
+    },
+    "homepage": "https://github.com/ekstep/eslint-config-ekstep-content-plugin#readme",
+    "devDependencies": {
+        "eslint": "^3.19.0"
+    },
+    "peerDependencies": {
+        "eslint": ">=3.19.0"
+    }
+}
