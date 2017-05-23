@@ -16,7 +16,8 @@ module.exports = {
         "PluginManager": false,
         "Renderer": false,
         "createjs": false,
-        "OverlayManager": false
+        "OverlayManager": false,
+        "EventBus": false
     },
     "rules": {
         "valid-jsdoc": ["error", { "requireReturn": false }],
