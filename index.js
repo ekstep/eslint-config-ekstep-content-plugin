@@ -17,7 +17,8 @@ module.exports = {
         "Renderer": false,
         "createjs": false,
         "OverlayManager": false,
-        "EventBus": false
+        "EventBus": false,
+        "EkstepRendererAPI": false
     },
     "rules": {
         "valid-jsdoc": ["error", { "requireReturn": false }],
