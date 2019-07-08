@@ -18,9 +18,9 @@
     },
     "homepage": "https://github.com/ekstep/eslint-config-ekstep-content-plugin#readme",
     "devDependencies": {
-        "eslint": "^3.19.0"
+        "eslint": "^4.18.2"
     },
     "peerDependencies": {
-        "eslint": ">=3.19.0"
+        "eslint": ">=4.18.2"
     }
 }
